@@ -158,11 +158,14 @@ margin-right: 190px;}
 .p-b{width: 100%;}
 .c-p{font-size: 18px;}
 .btn .btn-emergency{font-size:10px;
-padding:10px 25px !important;
+padding:10px 20px !important;
 background-color: black !important;
 color:white;
 }
-.emergency{width: 120px;}}
+.emergency{width: 120px;}
+.issue{font-size: 30px;}
+.input-btn{width: 160px;
+margin-left: 10px;}}
 
 
 
@@ -212,3 +215,5 @@ flex-grow: 1;}
 width: 100% !important;
 }}
 
+*{outline: 2px solid red;}
+  
