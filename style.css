@@ -124,7 +124,7 @@ border-radius: 40px;}
     }
     
 @media(max-width:620px){.input-btn{
-width: 250px;
+width: 200px;
 position: relative;
 right: 10px;
 }
@@ -133,7 +133,9 @@ font-size: 6px;}
 #last-input{font-size: 6px;
     
     
-}}
+}
+.btn-responsive{position: relative;
+right: 20px;}}
 
 @media(max-width:1116px){.row{flex-direction: column;}
 .col-1,.col-2{flex-grow: 0;
