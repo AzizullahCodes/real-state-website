@@ -135,7 +135,32 @@ font-size: 6px;}
     
 }
 .btn-responsive{position: relative;
-right: 20px;}}
+right: 20px;}
+.c-p{font-size: 28px;}
+.c-div{flex-direction: column;
+}
+.c-icon{margin-top: 30px;
+}
+ul{position: relative;
+top:120px;
+right: 50px;}
+.logo{position: relative;
+top:-90px;
+left:60px;}
+.btn{position: relative;
+top:120px;
+gap:10px;}
+.nav{padding-bottom: 130px;}
+.c-col{width: 100%;
+
+margin-right: 190px;}
+.p-b{width: 100%;}}
+
+
+
+
+
+
 
 @media(max-width:1116px){.row{flex-direction: column;}
 .col-1,.col-2{flex-grow: 0;
