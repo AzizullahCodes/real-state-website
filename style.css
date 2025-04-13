@@ -158,8 +158,11 @@ margin-right: 190px;}
 .p-b{width: 100%;}
 .c-p{font-size: 18px;}
 .btn .btn-emergency{font-size:10px;
-padding:10px 25px;
-}}
+padding:10px 25px !important;
+background-color: black !important;
+color:white;
+}
+.emergency{width: 120px;}}
 
 
 
