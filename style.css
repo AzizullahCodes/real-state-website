@@ -215,5 +215,26 @@ flex-grow: 1;}
 width: 100% !important;
 }}
 
+@media(max-width:640px){.input-btn{display: flex;
+    align-items: center;
+    border-radius: 40px;
+    background-color:white;
+    width: 180px;
+    }
+    #last-input{background-color: transparent;
+    border:none;
+padding:10px;
+flex-grow: 1;
+outline: none;
+border-radius: 40px;}
 
+.input-btn-2 {background-color: black;
+    padding:10px 20px;
+    width: 80px;
+    color: white;
+    outline: none;
+    border-radius: 40px;
+   
+   
+    }}
   
